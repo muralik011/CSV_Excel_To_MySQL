@@ -1,0 +1,1 @@
+### Load CSV or Excel files into MySQL without Pandas
